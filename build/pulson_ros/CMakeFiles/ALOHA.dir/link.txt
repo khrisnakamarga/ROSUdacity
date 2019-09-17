@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libALOHA.so -o /home/robond/catkin_ws/devel/lib/libALOHA.so CMakeFiles/ALOHA.dir/src/P4xx/RangeNet/ALOHA/rcm.c.o CMakeFiles/ALOHA.dir/src/P4xx/RangeNet/ALOHA/rcmIf.c.o CMakeFiles/ALOHA.dir/src/P4xx/RangeNet/ALOHA/rn.c.o 

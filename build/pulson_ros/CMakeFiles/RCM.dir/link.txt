@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libRCM.so -o /home/robond/catkin_ws/devel/lib/libRCM.so CMakeFiles/RCM.dir/src/P4xx/RCM/rcm.c.o CMakeFiles/RCM.dir/src/P4xx/RCM/rcmIf.c.o 
